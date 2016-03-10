@@ -20,5 +20,6 @@ public class Test {
                 System.out.print("输入错误");
                 break;
         }
+        System.out.print(d);
     }
 }
